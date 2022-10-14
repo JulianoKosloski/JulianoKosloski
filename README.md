@@ -5,7 +5,7 @@
 
 Contact me:
 
-- [Linkedin](https://www.linkedin.com/julianokosloski)
+- [Linkedin](https://www.linkedin.com/in/julianokosloski)
 
 <!---
 JulianoKosloski/JulianoKosloski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
