@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning fullstack development by building my own websites and applications. I also develop Python scripts for automation purposes and web scraping
 - 💞️ I’m looking to collaborate on any type of project involving these frameworks, especially linked to things I love (climbing, pixel art, books, music and games)
 
+Contact me:
+
+- [Linkedin](https://www.linkedin.com/julianokosloski)
 
 <!---
 JulianoKosloski/JulianoKosloski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
