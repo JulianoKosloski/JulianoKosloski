@@ -1,9 +1,26 @@
 # Hello, fellow humans! 🦎 
 
-- 👋 Hi, I’m @JulianoKosloski
-- 👀 I’m interested in back-end development (Node.js/Express, Spring Boot, and Django) and front-end as well (Angular, Vue, and React)
-- 🌱 I’m currently learning fullstack development by building my own websites and applications. I also develop Python scripts for automation purposes and web scraping
-- 💞️ I’m looking to collaborate on any type of project involving these frameworks, especially linked to things I love (climbing, pixel art, books, music and games)
+I'm Juliano Kosloski. I have a Bachelor's degree in Biomedical Sciences and I'm currently pursuing a Bachelor's degree in *Computer Systems Analysis*.
+
+I’m interested in fullstack development. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python.
+
+**I'm currently studying and would like to work with the following technologies:**
+
+  - Node/Express
+  - React
+  - Angular
+  - Django
+  - MongoDB
+  - PostgreSQL
+
+**Things I love:**
+
+  - Climbing
+  - Music
+  - Neuroscience
+  - Art
+  - Literature
+  - Games
 
 
 <!-- I want to use my dinosaurs somewhere :sauropod: 🦖 -->
