@@ -15,18 +15,18 @@ I’m interested in fullstack development. I have experience developing websites
 
 **Things I love:**
 
-  - Climbing
-  - Music
-  - Neuroscience
-  - Art
-  - Literature
-  - Games
+  - Climbing 🧗
+  - Music 🎹
+  - Neuroscience 🧠
+  - Art 🎨
+  - Literature 📚
+  - Games 🎮
 
 
 <!-- I want to use my dinosaurs somewhere :sauropod: 🦖 -->
 
 
-Contact me:
+**Contact me:**
 
 - [Linkedin](https://www.linkedin.com/in/julianokosloski)
 
