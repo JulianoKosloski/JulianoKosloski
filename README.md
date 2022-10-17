@@ -28,6 +28,11 @@ I’m interested in fullstack development. I have worked as a automation develop
   - Websmart (Automation Website)
   - Process automations (Python scripts)
 
+**🌎 Languages:**
+  - Portuguese 🇧🇷
+  - English 🇺🇸
+  - French 🇫🇷
+  - Spanish 🇪🇸
 
 **Contact me:**
 
