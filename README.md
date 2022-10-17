@@ -4,6 +4,8 @@ My name is Juliano Kosloski. I'm a web developer from Brazil. I have a Bachelor'
 
 I’m interested in fullstack development with a special focus on the backend. I have worked as a automation developer intern for four months at Sicredi Integração PR/SC. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python.
 
+Furthermore, I have great communication, teamwork and leadership skills, which I acquired during my time as an English teacher (taught both kids and adults) and aspiring neuroscientist (analyzed data, devised experiments, collaborated with other labs, organized scientific events and presented in conferences).
+
 **⚙️ I'm currently studying and would like to work with the following technologies:**
 
   - Node/Express
