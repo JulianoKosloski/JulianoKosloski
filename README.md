@@ -1,8 +1,8 @@
 # Hello, fellow humans! 🦎 
 
-My name is Juliano Kosloski. I'm a web developer from Brazil. I have a Bachelor's degree in Biomedical Sciences and I'm currently pursuing a Bachelor's degree in *Computer System Analysis*.
+My name is Juliano Kosloski. I'm a web developer from Brazil. I have a Bachelor's degree in Biomedical Sciences and I'm currently pursuing a Bachelor's degree in *Computer System Analysis* (graduating in September 2024).
 
-I’m interested in fullstack development. I have worked as a automation developer intern for four months at Sicredi Integração PR/SC. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python.
+I’m interested in fullstack development with a special focus on the backend. I have worked as a automation developer intern for four months at Sicredi Integração PR/SC. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python.
 
 **⚙️ I'm currently studying and would like to work with the following technologies:**
 
@@ -21,18 +21,17 @@ I’m interested in fullstack development. I have worked as a automation develop
   - Art 🎨
   - Literature 📚
   - Games 🎮
-
-
+  
 **🦕 My projects:**   
-  - HillHook app
-  - Websmart (Automation Website)
-  - Process automations (Python scripts)
+  - HillHook app (Node/Express, React, Tailwind CSS - in development)
+  - Websmart (HTML, CSS, Javascript)
+  - Process automations (Python)
 
 **🌎 Languages:**
-  - Portuguese 🇧🇷
-  - English 🇺🇸
-  - French 🇫🇷
-  - Spanish 🇪🇸
+  - Portuguese (Native) 🇧🇷
+  - English (C2, Bilingual) 🇺🇸
+  - French (B2, Professional Working Proficiency) 🇫🇷
+  - Spanish (A2, Limited Working Proficiency) 🇪🇸
 
 **Contact me:**
 
