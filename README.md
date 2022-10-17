@@ -20,8 +20,8 @@ Furthermore, I have great communication, teamwork, critical thinking and leaders
   - Climbing 🧗
   - Music 🎹
   - Neuroscience 🧠
-  - Art 🎨
-  - Literature 📚
+  - Movies 🎥
+  - Literature (Writing, Poetry, Translation) 📚
   - Games 🎮
   
 **🦕 My projects:**   
