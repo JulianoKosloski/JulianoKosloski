@@ -1,6 +1,6 @@
 # Hello, fellow humans! 🦎 
 
-I'm Juliano Kosloski. I have a Bachelor's degree in Biomedical Sciences and I'm currently pursuing a Bachelor's degree in *Computer Systems Analysis*.
+I'm Juliano Kosloski. I have a Bachelor's degree in Biomedical Sciences and I'm currently pursuing a Bachelor's degree in *Computer System Analysis*.
 
 I’m interested in fullstack development. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python.
 
