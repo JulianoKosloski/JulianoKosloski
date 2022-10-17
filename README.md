@@ -4,7 +4,7 @@ My name is Juliano Kosloski. I'm a web developer from Brazil. I have a Bachelor'
 
 I’m interested in fullstack development with a special focus on the backend. I have worked as an automation developer intern for four months at Sicredi Integração PR/SC. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python.
 
-Furthermore, I have great communication, teamwork and leadership skills, which I acquired during my time as an English teacher (taught both kids and adults) and aspiring neuroscientist (analyzed data, devised experiments, collaborated with other labs, organized scientific events and presented in conferences).
+Furthermore, I have great communication, teamwork, critical thinking and leadership skills, which I acquired during my time as an English teacher (taught both kids and adults) and aspiring neuroscientist (analyzed data, devised experiments, collaborated with other labs, organized scientific events and presented in conferences).
 
 **⚙️ I'm currently studying and would like to work with the following technologies:**
 
@@ -25,9 +25,10 @@ Furthermore, I have great communication, teamwork and leadership skills, which I
   - Games 🎮
   
 **🦕 My projects:**   
-  - HillHook app (Node/Express, React, Tailwind CSS - in development)
-  - Websmart (HTML, CSS, Javascript)
-  - Process automations (Python)
+  - HillHook - Web App (Node/Express, React, Tailwind CSS - in development)
+  - Recommend me a poem - Web App (Node/Express, React, Tailwind CSS - in development)
+  - Websmart - Automation Website (HTML, CSS, Javascript)
+  - Process automations - Automation Scripts (Python)
 
 **🌎 Languages:**
   - Portuguese (Native) 🇧🇷
