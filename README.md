@@ -10,7 +10,7 @@ Furthermore, I have great communication, teamwork, critical thinking and leaders
 
   - Node/Express
   - React
-  - Angular
+  - Vue
   - Django
   - MongoDB
   - PostgreSQL
