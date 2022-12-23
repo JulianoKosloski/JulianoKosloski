@@ -2,7 +2,7 @@
 
 My name is Juliano Kosloski. I'm a web developer from Brazil. I have a Bachelor's degree in Biomedical Sciences and I'm currently pursuing a Bachelor's degree in *Computer System Analysis* (graduating in September 2024).
 
-I’m interested in fullstack development with a special focus on the backend. Previously, I have worked as an automation developer intern for six months at Sicredi Integração PR/SC. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python.
+I’m interested in fullstack development with a special focus on the backend. Previously, I have worked as an automation developer intern for six months at Sicredi Integração PR/SC. I have experience developing websites (HTML, CSS, Javascript) and automation scripts in Python (Selenium, openpyxl, requests and other libraries).
 
 Furthermore, I have great communication, teamwork, and critical thinking skills, which I acquired during my time as an English teacher (taught both kids and adults) and aspiring neuroscientist (analyzed data, devised experiments, collaborated with other labs, organized scientific events and presented in conferences).
 
