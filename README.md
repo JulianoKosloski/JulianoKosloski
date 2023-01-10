@@ -9,6 +9,7 @@ Furthermore, I have great communication, teamwork, and critical thinking skills,
 **⚙️ I'm currently studying and would like to work with the following technologies:**
 
   - Node/Express
+  - Spring Boot
   - React
   - Vue
   - Django
